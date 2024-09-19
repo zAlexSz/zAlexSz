@@ -43,7 +43,11 @@
   <img align="center" src="https://i.pinimg.com/originals/b1/18/ce/b118cec88f52f6f2bd1edc1808056c10.gif" alt="Imagem">
 </p>
 
-![snake gif](https://github.com/zalexsz/zalexsz/blob/output/github-contribution-grid-snake.gif)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zalesz/zalexsz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zalexsz/zalexsz/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zalexsz/zalexsz/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wn7zeib9o0dzdezhuomu6wk1g&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=b14e4e&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
