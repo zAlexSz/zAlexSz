@@ -1,9 +1,7 @@
-<h2 align="left">Hi 👋! My name is Alex and I'm a ..., from ....</h2>
+<h2 align="middle">Hi 👋! My name is Alex and I'm a student, from Brazil</h2>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zalexsz&show_icons=true&theme=shadow_red)
 ###
 
 <div align="left">
@@ -39,4 +37,4 @@
 <img src="https://raw.githubusercontent.com/zAlexSz/zAlexSz/output/snake.svg" alt="Snake animation" />
 
 ###
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wn7zeib9o0dzdezhuomu6wk1g&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wn7zeib9o0dzdezhuomu6wk1g&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=b14e4e&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
