@@ -39,3 +39,4 @@
 <img src="https://raw.githubusercontent.com/zAlexSz/zAlexSz/output/snake.svg" alt="Snake animation" />
 
 ###
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wn7zeib9o0dzdezhuomu6wk1g&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
